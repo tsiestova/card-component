@@ -7,8 +7,8 @@
     - [Built with](#built-with)
 
 ### Screenshot
-
-![](./screenshot.jpg) 
+ 
+![](./screenshot.png) 
 
 ### Links
 
