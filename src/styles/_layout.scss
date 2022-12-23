@@ -1,0 +1,25 @@
+@import "functions";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+body {
+  font-family: var(--font);
+  background: var(--main-bg);
+}
+
+.layout {
+  padding: 62px 24px 0 24px;
+
+  @include breakpoint(desktop) {
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+}
