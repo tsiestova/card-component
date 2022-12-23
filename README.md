@@ -12,8 +12,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Source code: [URL](https://github.com/tsiestova/card-component)
+- Live Site: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
@@ -22,3 +22,4 @@
 - Flexbox
 - Mobile-first workflow 
 
+ 
